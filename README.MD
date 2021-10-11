@@ -1,17 +1,20 @@
+# CalculatorASM
+```Assembly
 ;/************************************************************************
-;**  Program Name:   Calculator ASM			      		**
-;**  Version Number: V1.0                                     		**
-;**  Copyright (C):  September 6, 2010  Richard W. Allen	   	**
-;**  Date Started:   September 1, 2010	                      		**
-;**  Date Ended:     September 6, 2010    	             		**
-;**  Author:         Richard W. Allen                         		**
-;**  Webpage:        http://www.richardallenonline.com			**
-;**  IDE:            RadASM 3.0.0.7					**
-;**  Compiler:	     JWASM 2.03				      		**
-;**  Langage:        MASM					     	**
-;**  License:	     GNU GENERAL PUBLIC LICENSE Version 2		**
-;**		     see license.txt for for details	      		**
+;**  Program Name:   Calculator ASM                                     **
+;**  Version Number: V1.0                                               **
+;**  Copyright (C):  September 6, 2010  Richard W. Allen                **
+;**  Date Started:   September 1, 2010                                  **
+;**  Date Ended:     September 6, 2010                                  **
+;**  Author:         Richard W. Allen                                   **
+;**  Webpage:        http://www.richardallenonline.com                  **
+;**  IDE:            RadASM 3.0.0.7                                     **
+;**  Compiler:	     JWASM 2.03                                         **
+;**  Langage:        MASM                                               **
+;**  License:        GNU GENERAL PUBLIC LICENSE Version 2               **
+;**                  see license.txt for for details                    **
 ;*************************************************************************/
+```
 
 Download gorc from www.godevtool.com
 Download JWASM and win32inc from http://www.japheth.de
